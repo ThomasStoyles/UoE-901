@@ -1,0 +1,9 @@
+langchain
+langchain_community
+transformers
+ipython
+json
+time
+pathlib
+os
+ollama

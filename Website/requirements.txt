@@ -1,0 +1,7 @@
+Flask
+langchain
+langchain-huggingface
+langchain-community
+torch
+sentence-transformers
+ollama
